@@ -1,0 +1,24 @@
+
+# Dataset files
+data/*.data
+data/*.test
+
+# Generated outputs
+outputs/models/
+outputs/splits/
+outputs/figures/
+outputs/metrics/
+
+# Coursework submissions
+*.zip
+*.pdf
+Demo Drive Link.txt
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+.ipynb_checkpoints/
+
+# Environment
+.env
